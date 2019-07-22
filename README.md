@@ -23,7 +23,7 @@ How to get those lovely modules and packages during OSD
  
 
 In my use case I already had the module and package provider I needed installed to my machine.  
-![Imgur](https://imgur.com/7ejs9Ro)
+![Imgur](https://imgur.com/oOCbxWD.jpg)
 
 You can find modules at $env:ProgramFiles\WindowsPowerShell\Modules 
 
