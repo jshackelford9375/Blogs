@@ -23,7 +23,7 @@ How to get those lovely modules and packages during OSD
  
 
 In my use case I already had the module and package provider I needed installed to my machine.  
-![Imgur](https://imgur.com/oOCbxWD.jpg)
+
 
 You can find modules at $env:ProgramFiles\WindowsPowerShell\Modules 
 
@@ -35,7 +35,7 @@ I copied the WindowsPowerShell folder and the PacakageManegement folders to a ne
 
 In my case my folder structure for the entire package looks like so: 
 
-
+![Imgur2](https://imgur.com/7ejs9Ro.jpg)
  
 
 Once we have these two folders in a folder on our SCCM we can create a package.  
@@ -60,7 +60,7 @@ In my case I called this script MoveItems.ps1
 
 In your OSD task Sequence create a run powershell script step and reference the package you made like so 
 
-![TaskSequence](https://imgur.com/a/rE0I9u5.jpg)
+![Imgur3](https://imgur.com/oOCbxWD.jpg)
 
  
 
